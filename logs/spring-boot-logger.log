@@ -1,0 +1,414 @@
+2021-10-19 08:03:48,842 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-3] Specific fibonacci number was found. Sending response
+2021-10-19 08:03:53,275 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] POST: /add
+2021-10-19 08:03:53,278 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] Existing fibonacci found. Sending response
+2021-10-19 08:03:53,279 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] Specific fibonacci number was found. Sending response
+2021-10-19 08:04:07,555 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-10-19 08:04:07,557 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-10-19 08:04:14,127 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-10-19 08:04:14,272 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-10-19 08:04:22,387 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-3] Specific fibonacci number was not found. Sending response
+2021-10-19 08:04:25,824 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-5] POST: /add
+2021-10-19 08:04:25,826 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-5] Specified fibonacci at index not found. Computing fibonacci new series and adding to database
+2021-10-19 08:04:25,830 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,831 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,831 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,833 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,833 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,834 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,835 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,836 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,837 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,839 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,841 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,843 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,844 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,847 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,847 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-5] Running fibonacci computation
+2021-10-19 08:04:25,849 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-5] Saved fibonacci values to database
+2021-10-19 08:04:26,010 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] Collecting all fibonacci values
+2021-10-19 08:04:26,023 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] All fibonacci values successfully found. Sending response
+2021-10-19 08:04:29,646 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-9] Collecting all fibonacci values
+2021-10-19 08:04:29,656 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-9] All fibonacci values successfully found. Sending response
+2021-10-19 08:06:44,990 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-10-19 08:06:44,992 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-10-19 08:06:51,490 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-10-19 08:06:51,657 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-10-19 08:08:10,152 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-10-19 08:08:10,156 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-10-19 08:08:30,464 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-10-19 08:08:30,614 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-10-19 08:08:36,878 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-1] Specific fibonacci number was found. Sending response
+2021-10-19 08:08:38,598 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-4] Collecting all fibonacci values
+2021-10-19 08:08:38,601 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-4] All fibonacci values successfully found. Sending response
+2021-10-19 08:08:44,881 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] POST: /add
+2021-10-19 08:08:44,885 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] Specified fibonacci at index not found. Computing fibonacci new series and adding to database
+2021-10-19 08:08:44,886 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,887 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,888 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,889 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,889 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,890 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,891 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,891 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,891 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,892 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,892 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,892 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,892 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,893 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,893 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,893 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,894 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,895 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,895 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,896 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,896 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,896 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,897 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,897 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,897 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,898 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,900 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,901 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,901 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,902 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,903 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,904 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,905 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,906 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,907 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,907 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,908 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,908 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,909 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,909 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,909 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,909 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,910 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,910 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,910 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,911 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,912 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,912 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,912 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,913 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,913 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,913 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,914 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,914 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,914 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,915 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,917 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,918 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,919 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,919 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,920 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,920 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,920 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,921 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,921 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,922 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,922 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,923 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,923 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,923 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,924 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,924 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,924 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,924 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,925 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,925 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,925 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,925 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,926 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,926 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,926 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,926 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,927 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,927 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,927 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,927 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,927 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,928 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,928 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,929 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,929 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,929 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,930 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,930 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,930 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,931 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,932 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,933 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,933 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,933 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,933 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,934 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,934 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,934 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,935 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,936 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,936 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,936 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,937 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,937 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,937 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,938 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,938 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,938 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,939 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,939 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,939 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,939 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,939 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,940 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,940 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,941 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,941 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,942 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,942 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,942 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,942 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,943 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,943 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,943 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,943 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,944 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,944 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,944 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,945 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,945 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,945 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,946 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,946 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,946 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,948 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,949 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,949 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,950 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,952 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,952 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,953 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,953 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,953 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,954 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,954 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,955 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,956 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,957 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,957 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,958 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,958 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,958 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,958 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,958 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,959 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,959 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,959 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,959 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,959 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,960 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,961 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,961 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,963 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,964 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,964 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,964 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-6] Running fibonacci computation
+2021-10-19 08:08:44,966 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-6] Saved fibonacci values to database
+2021-10-19 08:08:45,078 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-7] Collecting all fibonacci values
+2021-10-19 08:08:45,085 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-7] All fibonacci values successfully found. Sending response
+2021-10-19 08:08:50,265 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-10-19 08:08:50,267 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-10-19 08:10:22,117 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-10-19 08:10:22,274 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-10-19 08:10:28,295 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-1] POST: /add
+2021-10-19 08:10:28,320 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-1] Specified fibonacci at index not found. Computing fibonacci new series and adding to database
+2021-10-19 08:10:28,321 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,325 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,326 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,326 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,327 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,328 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,328 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,329 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,329 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,329 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,330 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,331 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,333 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,334 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,334 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,335 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,335 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,335 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,336 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,336 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,337 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,337 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,337 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,338 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,338 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,339 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,339 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,341 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,386 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,387 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,387 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,388 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,388 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,388 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,389 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,389 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,389 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,389 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,390 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,390 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,390 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,391 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,391 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,391 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,391 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,391 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,392 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,392 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,392 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,392 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,393 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,393 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,393 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,393 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,394 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,394 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,394 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,394 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,395 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,395 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,396 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,396 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,396 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,397 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,397 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,398 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,398 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,398 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,399 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,399 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,399 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,400 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,400 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,401 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,401 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,402 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,402 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,402 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,402 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,403 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,403 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,404 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,404 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,404 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,404 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,405 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,406 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,406 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,406 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,407 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,407 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,407 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,407 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,407 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,408 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,408 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,408 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,408 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,409 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,409 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,409 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,409 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,410 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,410 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,410 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,410 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,411 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,411 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,411 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,411 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,411 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,412 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,412 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,412 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,412 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,413 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,413 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,413 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,413 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,414 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,414 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,415 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,415 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,415 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,416 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,416 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,416 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,416 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,417 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,417 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,417 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,417 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,418 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,418 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,418 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,418 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,419 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,419 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,420 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,420 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,420 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,420 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,421 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,421 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,422 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,422 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,422 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,423 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,423 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,423 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,423 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,424 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,424 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,424 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,424 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,425 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,425 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,425 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,425 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,426 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,426 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,426 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,426 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,426 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,427 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,427 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,427 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,427 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,427 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,428 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,428 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,428 INFO com.example.restfulfibonacciapiservice.FibonacciCalculator [http-nio-8080-exec-1] Running fibonacci computation
+2021-10-19 08:10:28,429 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-1] Saved fibonacci values to database
+2021-10-19 08:10:28,584 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-2] Collecting all fibonacci values
+2021-10-19 08:10:28,594 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-2] All fibonacci values successfully found. Sending response
+2021-10-19 08:10:33,115 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-4] Collecting all fibonacci values
+2021-10-19 08:10:33,124 INFO com.example.restfulfibonacciapiservice.FibonacciController [http-nio-8080-exec-4] All fibonacci values successfully found. Sending response
+2021-10-19 08:10:36,498 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-10-19 08:10:36,501 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
